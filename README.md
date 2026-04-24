@@ -60,7 +60,8 @@ Count and percentage of employees who left vs stayed across the entire organizat
 ### 2 — Attrition by Department
 Department-wise attrition rate to identify which teams are losing the most people.
 
-![attrition](screenshots/attrition.png)
+
+![Attrition Split](screenshots/1_attrition_split.png)
 
 > **Sales** department shows the highest attrition rate among all departments.
 
