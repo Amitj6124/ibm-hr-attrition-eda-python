@@ -60,11 +60,11 @@ Count and percentage of employees who left vs stayed across the entire organizat
 ### 2 — Attrition by Department
 Department-wise attrition rate to identify which teams are losing the most people.
 
-Screenshots/Attrition by dept.png
+![attrition](screenshots/attrition.png)
 
 > **Sales** department shows the highest attrition rate among all departments.
 
----
+---![dept](screenshots/Attrition%20by%20dept.png)
 
 ### 3 — Average Monthly Income by Attrition
 Salary comparison between employees who left vs who stayed.
@@ -77,6 +77,7 @@ Salary comparison between employees who left vs who stayed.
 
 ### 4 — Overtime vs Attrition
 How working overtime correlates with the decision to leave.
+
 
 ![overtime](screenshots/Attrition%20overtime%20vs%20no%20time.png)
 
@@ -91,12 +92,13 @@ Employees segmented into Low / Mid / High salary bands compared against attritio
 
 > **Low salary band (<$3k/month)** has the highest attrition at ~29.4% — compensation is the single biggest lever.
 
----
+---![tenure](screenshots/random%201.png)
 
 ### 6 — Tenure Analysis (Years at Company)
 Attrition rate plotted across each year of tenure to find the danger zone.
 
-![tenure](screenshots/random%201.png)
+
+![salary_band](screenshots/Attrition%20by%20salary%20band.png)
 
 > Employees in their **first 2 years** are most likely to quit. Attrition spikes sharply at Year 0–2 and stabilizes after Year 5.
 
