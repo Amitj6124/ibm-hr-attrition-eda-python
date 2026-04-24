@@ -53,15 +53,14 @@ ibm-hr-attrition-eda-python/
 
 ### 1 — Overall Attrition Split
 Count and percentage of employees who left vs stayed across the entire organization.
-
-![attrition](screenshots/attrition.png)
+(Screenshots/attrition.png)
 
 ---
 
 ### 2 — Attrition by Department
 Department-wise attrition rate to identify which teams are losing the most people.
 
-![dept](screenshots/Attrition%20by%20dept.png)
+Screenshots/Attrition by dept.png
 
 > **Sales** department shows the highest attrition rate among all departments.
 
