@@ -55,22 +55,22 @@ ibm-hr-attrition-eda-python/
 Count and percentage of employees who left vs stayed across the entire organization.
 (Screenshots/attrition.png)
 
----
+---![Attrition Split](Screenshots/attrition.png)
 
 ### 2 — Attrition by Department
 Department-wise attrition rate to identify which teams are losing the most people.
 
-
-![Attrition Split](screenshots/1_attrition_split.png)
+![Attrition by Department](Screenshots/Attrition%20by%20dept.png)
 
 > **Sales** department shows the highest attrition rate among all departments.
 
----![dept](screenshots/Attrition%20by%20dept.png)
+---
 
 ### 3 — Average Monthly Income by Attrition
 Salary comparison between employees who left vs who stayed.
 
-![income](screenshots/avg%20monthly%20income.png)
+
+![Average Monthly Income](Screenshots/avg%20monthly%20income.png)
 
 > Employees who left earned notably less on average — compensation is a clear driver of attrition.
 
@@ -80,7 +80,7 @@ Salary comparison between employees who left vs who stayed.
 How working overtime correlates with the decision to leave.
 
 
-![overtime](screenshots/Attrition%20overtime%20vs%20no%20time.png)
+![Overtime vs Attrition](Screenshots/Attrition%20overtime%20vs%20no%20time.png)
 
 > Overtime employees have an attrition rate of **~30.5%** vs **~10.4%** for non-overtime — nearly **3x higher**.
 
@@ -89,7 +89,7 @@ How working overtime correlates with the decision to leave.
 ### 5 — Attrition by Salary Band
 Employees segmented into Low / Mid / High salary bands compared against attrition rate.
 
-![salary](screenshots/Attrition%20by%20salary%20band.png)
+![Attrition by Salary Band](Screenshots/Attrition%20by%20salary%20band.png)
 
 > **Low salary band (<$3k/month)** has the highest attrition at ~29.4% — compensation is the single biggest lever.
 
@@ -99,7 +99,7 @@ Employees segmented into Low / Mid / High salary bands compared against attritio
 Attrition rate plotted across each year of tenure to find the danger zone.
 
 
-![salary_band](screenshots/Attrition%20by%20salary%20band.png)
+![Tenure Analysis](Screenshots/random%201.png)
 
 > Employees in their **first 2 years** are most likely to quit. Attrition spikes sharply at Year 0–2 and stabilizes after Year 5.
 
