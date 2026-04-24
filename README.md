@@ -93,7 +93,6 @@ Employees segmented into Low / Mid / High salary bands compared against attritio
 
 > **Low salary band (<$3k/month)** has the highest attrition at ~29.4% — compensation is the single biggest lever.
 
----![tenure](screenshots/random%201.png)
 
 ### 6 — Tenure Analysis (Years at Company)
 Attrition rate plotted across each year of tenure to find the danger zone.
