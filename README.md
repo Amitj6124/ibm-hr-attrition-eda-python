@@ -1,4 +1,4 @@
-# 📊 IBM HR Attrition — Python EDA
+ IBM HR Attrition — Python EDA
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-green?logo=pandas&logoColor=white)
@@ -6,11 +6,11 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plots-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-> 🔗 **Same project — SQL + Power BI version:** [Click here](https://github.com/Amitj6124/ibm-hr-attrition-eda-python)
+>  **Same project — SQL + Power BI version:** [Click here](https://github.com/Amitj6124/ibm-hr-attrition-eda-python)
 
 ---
 
-## 🎯 Overview
+## Overview
 
 Exploratory Data Analysis on IBM's HR dataset of **1,470 employees** to find out who is leaving the company and why — using Python (Pandas, Matplotlib, Seaborn).
 
@@ -18,7 +18,7 @@ The analysis covers department-level breakdowns, salary impact, overtime effect,
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 
 | | |
 |---|---|
@@ -30,7 +30,7 @@ The analysis covers department-level breakdowns, salary impact, overtime effect,
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ibm-hr-attrition-eda-python/
@@ -49,7 +49,7 @@ ibm-hr-attrition-eda-python/
 
 ---
 
-## 📊 Analysis Breakdown
+##  Analysis Breakdown
 
 ### 1 — Overall Attrition Split
 Count and percentage of employees who left vs stayed across the entire organization.
@@ -104,7 +104,7 @@ Attrition rate plotted across each year of tenure to find the danger zone.
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 | # | Finding |
 |---|---------|
@@ -117,7 +117,7 @@ Attrition rate plotted across each year of tenure to find the danger zone.
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 
 - **Revisit overtime policy** — excessive OT is the strongest predictor of attrition
 - **Revise compensation** for low salary band employees
@@ -127,7 +127,7 @@ Attrition rate plotted across each year of tenure to find the danger zone.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/Amitj6124/ibm-hr-attrition-eda-python.git
@@ -140,7 +140,7 @@ Or open in **Google Colab** — upload the CSV to `/content/` and run all cells.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 `Python 3.10+` · `Pandas` · `Matplotlib` · `Seaborn` · `Jupyter Notebook / Google Colab`
 
